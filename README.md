@@ -6,8 +6,8 @@ https://github.com/IntrovertScalp/Config-ProfitForge/releases/tag/Config
 
 
 🛡️ **Результат сканирования Файлов из Releases:** 
-*Config* https://www.virustotal.com/gui/file/af4d745d521db3d917c8c2cf527d01b61364b02ce704c03031aa75836a427cc3?nocache=1
-*Sounds* https://www.virustotal.com/gui/file/4c0fe62665824bb95bc39a0eac24d4a18d54159b98207e1c52fc2351c7c9d068?nocache=1
+*Config* - https://www.virustotal.com/gui/file/af4d745d521db3d917c8c2cf527d01b61364b02ce704c03031aa75836a427cc3?nocache=1
+*Sounds* - https://www.virustotal.com/gui/file/4c0fe62665824bb95bc39a0eac24d4a18d54159b98207e1c52fc2351c7c9d068?nocache=1
 
 Если после загрузки конфига рабочие пространства не появились, то можете настроить при желании как у меня. Я торгую только через один ноутбук, экран 15.6 дюйма и настроил пространство под него, чтобы было более менее удобно.
 

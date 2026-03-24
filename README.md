@@ -6,6 +6,7 @@ https://github.com/IntrovertScalp/Config-ProfitForge/releases/tag/Config
 
 
 🛡️ **Результат сканирования Файлов из Releases:** 
+
 *Config:*
 https://www.virustotal.com/gui/file/af4d745d521db3d917c8c2cf527d01b61364b02ce704c03031aa75836a427cc3?nocache=1
 

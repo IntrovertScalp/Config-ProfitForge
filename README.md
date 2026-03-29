@@ -1,5 +1,5 @@
 # Config - ProfitForge
-Мой Конфиг для терминала ProfitForge
+Мой Конфиг для терминала ProfitForge:
 
 Скачать:
 https://github.com/IntrovertScalp/Config-ProfitForge/releases/tag/Config
